@@ -1,0 +1,20 @@
+# Error logs
+error_log
+
+# Temporary files
+.updated
+.kilocode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Database credentials (if any)
+config.php
